@@ -1,0 +1,16 @@
+G:\WPF\simple\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+G:\WPF\simple\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM.csprojResolveAssemblyReference.cache
+G:\WPF\simple\MinimalMVVM\obj\Debug\View\ConverterControl.g.cs
+G:\WPF\simple\MinimalMVVM\obj\Debug\View\ConvertWindow.g.cs
+G:\WPF\simple\MinimalMVVM\obj\Debug\App.g.cs
+G:\WPF\simple\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+G:\WPF\simple\MinimalMVVM\obj\Debug\View\ConverterControl.baml
+G:\WPF\simple\MinimalMVVM\obj\Debug\View\ConvertWindow.baml
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.Cache
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+G:\WPF\simple\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
